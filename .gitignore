@@ -163,3 +163,5 @@ models*/
 .locks/
 datasets/
 cuda*
+results/
+flan*/
